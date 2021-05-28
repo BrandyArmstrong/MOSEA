@@ -8,7 +8,7 @@ ASCII XY1 x-y series control cards
 Author: Brandy Armstrong
 Date of Revision: 05/28/2021
 Affiliation: The University of Southern Mississippi
-Modeling Ocean, Sediment, Engineering, Atmosphere (MOSEA)
+Modeling Ocean Science, Engineering, Atmosphere (MOSEA)
 
 
 """
