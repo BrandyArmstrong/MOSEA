@@ -37,6 +37,11 @@ or initial/boundary-condition regeneration is performed. Review bathymetry
 and consistency of dependent model inputs before running the model.
 No external coastline download is needed: the mask outline is displayed.
 No auto-save: use Save before closing (closing prints an unsaved warning).
+
+Author: Brandy Armstrong
+Date of Revision: 11/10/2026
+Affiliation: The University of Southern Mississippi
+Modeling Ocean Science, Engineering, Atmosphere (MOSEA)
 """
 from __future__ import annotations
 
